@@ -1,0 +1,9 @@
+using UnityEngine;
+using UnityEngine.Assertions;
+
+    #ROOTNAMESPACEBEGIN#
+[DisallowMultipleComponent]
+sealed class #SCRIPTNAME# : MonoBehaviour
+{
+}
+#ROOTNAMESPACEEND#
